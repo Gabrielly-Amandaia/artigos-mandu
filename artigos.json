@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "artigos.json",
+    "path": "artigos.json",
+    "sha": "fe51488c7066f6687ef680d6bfaa4f7768ef205c",
+    "size": 3,
+    "url": "https://api.github.com/repos/Gabrielly-Amandaia/artigos-mandu/contents/artigos.json?ref=main",
+    "html_url": "https://github.com/Gabrielly-Amandaia/artigos-mandu/blob/main/artigos.json",
+    "git_url": "https://api.github.com/repos/Gabrielly-Amandaia/artigos-mandu/git/blobs/fe51488c7066f6687ef680d6bfaa4f7768ef205c",
+    "download_url": "https://raw.githubusercontent.com/Gabrielly-Amandaia/artigos-mandu/main/artigos.json",
+    "type": "file",
+    "content": "W10K\n",
+    "encoding": "base64",
+    "_links": {
+      "self": "https://api.github.com/repos/Gabrielly-Amandaia/artigos-mandu/contents/artigos.json?ref=main",
+      "git": "https://api.github.com/repos/Gabrielly-Amandaia/artigos-mandu/git/blobs/fe51488c7066f6687ef680d6bfaa4f7768ef205c",
+      "html": "https://github.com/Gabrielly-Amandaia/artigos-mandu/blob/main/artigos.json"
+    }
+  }
+]
