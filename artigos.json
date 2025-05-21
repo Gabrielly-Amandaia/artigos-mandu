@@ -2,6 +2,24 @@
   {
     "name": "artigos.json",
     "path": "artigos.json",
+    "sha": "7909dd9b4f9eb327a2d06e0af220de3322a3fcf7",
+    "size": 1000,
+    "url": "https://api.github.com/repos/Gabrielly-Amandaia/artigos-mandu/contents/artigos.json?ref=main",
+    "html_url": "https://github.com/Gabrielly-Amandaia/artigos-mandu/blob/main/artigos.json",
+    "git_url": "https://api.github.com/repos/Gabrielly-Amandaia/artigos-mandu/git/blobs/7909dd9b4f9eb327a2d06e0af220de3322a3fcf7",
+    "download_url": "https://raw.githubusercontent.com/Gabrielly-Amandaia/artigos-mandu/main/artigos.json",
+    "type": "file",
+    "content": "WwogIHsKICAgICJuYW1lIjogImFydGlnb3MuanNvbiIsCiAgICAicGF0aCI6\nICJhcnRpZ29zLmpzb24iLAogICAgInNoYSI6ICJmZTUxNDg4YzcwNjZmNjY4\nN2VmNjgwZDZiZmFhNGY3NzY4ZWYyMDVjIiwKICAgICJzaXplIjogMywKICAg\nICJ1cmwiOiAiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy9HYWJyaWVs\nbHktQW1hbmRhaWEvYXJ0aWdvcy1tYW5kdS9jb250ZW50cy9hcnRpZ29zLmpz\nb24/cmVmPW1haW4iLAogICAgImh0bWxfdXJsIjogImh0dHBzOi8vZ2l0aHVi\nLmNvbS9HYWJyaWVsbHktQW1hbmRhaWEvYXJ0aWdvcy1tYW5kdS9ibG9iL21h\naW4vYXJ0aWdvcy5qc29uIiwKICAgICJnaXRfdXJsIjogImh0dHBzOi8vYXBp\nLmdpdGh1Yi5jb20vcmVwb3MvR2FicmllbGx5LUFtYW5kYWlhL2FydGlnb3Mt\nbWFuZHUvZ2l0L2Jsb2JzL2ZlNTE0ODhjNzA2NmY2Njg3ZWY2ODBkNmJmYWE0\nZjc3NjhlZjIwNWMiLAogICAgImRvd25sb2FkX3VybCI6ICJodHRwczovL3Jh\ndy5naXRodWJ1c2VyY29udGVudC5jb20vR2FicmllbGx5LUFtYW5kYWlhL2Fy\ndGlnb3MtbWFuZHUvbWFpbi9hcnRpZ29zLmpzb24iLAogICAgInR5cGUiOiAi\nZmlsZSIsCiAgICAiY29udGVudCI6ICJXMTBLXG4iLAogICAgImVuY29kaW5n\nIjogImJhc2U2NCIsCiAgICAiX2xpbmtzIjogewogICAgICAic2VsZiI6ICJo\ndHRwczovL2FwaS5naXRodWIuY29tL3JlcG9zL0dhYnJpZWxseS1BbWFuZGFp\nYS9hcnRpZ29zLW1hbmR1L2NvbnRlbnRzL2FydGlnb3MuanNvbj9yZWY9bWFp\nbiIsCiAgICAgICJnaXQiOiAiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBv\ncy9HYWJyaWVsbHktQW1hbmRhaWEvYXJ0aWdvcy1tYW5kdS9naXQvYmxvYnMv\nZmU1MTQ4OGM3MDY2ZjY2ODdlZjY4MGQ2YmZhYTRmNzc2OGVmMjA1YyIsCiAg\nICAgICJodG1sIjogImh0dHBzOi8vZ2l0aHViLmNvbS9HYWJyaWVsbHktQW1h\nbmRhaWEvYXJ0aWdvcy1tYW5kdS9ibG9iL21haW4vYXJ0aWdvcy5qc29uIgog\nICAgfQogIH0KXQ==\n",
+    "encoding": "base64",
+    "_links": {
+      "self": "https://api.github.com/repos/Gabrielly-Amandaia/artigos-mandu/contents/artigos.json?ref=main",
+      "git": "https://api.github.com/repos/Gabrielly-Amandaia/artigos-mandu/git/blobs/7909dd9b4f9eb327a2d06e0af220de3322a3fcf7",
+      "html": "https://github.com/Gabrielly-Amandaia/artigos-mandu/blob/main/artigos.json"
+    }
+  },
+  {
+    "name": "artigos.json",
+    "path": "artigos.json",
     "sha": "fe51488c7066f6687ef680d6bfaa4f7768ef205c",
     "size": 3,
     "url": "https://api.github.com/repos/Gabrielly-Amandaia/artigos-mandu/contents/artigos.json?ref=main",
